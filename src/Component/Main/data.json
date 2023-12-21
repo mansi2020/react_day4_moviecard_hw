@@ -1,0 +1,57 @@
+[
+{
+    "title" : "Wonka",
+    "subImage":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+    "bgImage":"https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+    "year" : 2023,
+    "director" : "Paul King",
+    "time" : "1h 57m",
+    "type" : "Comedy, Family, Fantasy",
+    "overview" : "Willy Wonka  chock-full of ideas and determined to change the world one delectable bite at a time  is proof that the best things in life begin with a dream, and if you are lucky enough to meet Willy Wonka, anything is possible."
+
+} ,
+{
+    "title" : "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "subImage":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+    "bgImage":"https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+    "year" : 2023,
+    "director" : "Francis Lawrence",
+    "time" : "2h 37m",
+    "type" : "Drama, Science Fiction, Action",
+    "overview" : "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12."
+
+},
+{
+    "title" : "The Dark Kingdom",
+    "subImage":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o7StI2iR8yY1N67meSkNcXfojyD.jpg",
+    "bgImage":"https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/jhpsTzbXEu5bkCPmBqxv7vUTjIT.jpg",
+    "year" : 2018,
+    "director" : "Simon Wells",
+    "time" : "1h 25m",
+    "type" : "Fantasy, Adventure, Science Fiction, Action",
+    "overview" : "To save their Kingdom from an army of undead, a group of warriors must travel through the forbidden lands fighting the fearsome beasts that call The Dark Kingdom their home."
+
+},
+{
+    "title" : "Encanto",
+    "subImage":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+    "bgImage":"https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+    "year" : 2021,
+    "director" : "Jared Bush",
+    "time" : "1h 42m",
+    "type" : "Animation, Comedy, Family, Fantasy",
+    "overview" : "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto."
+
+},
+{
+    "title" : "How the Grinch Stole Christmas",
+    "subImage":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/52EpMoLTTbKAkM6rSrnNHV2mpLF.jpg",
+    "bgImage":"https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/4uHyfIApZSRXSVEqSuk92PdN8Yx.jpg",
+    "year" : 2000,
+    "director" : "Ron Howard",
+    "time" : "1h 44m",
+    "type" : "Family, Comedy, Fantasy",
+    "overview" : "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart..."
+
+}   
+]
